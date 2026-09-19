@@ -17,8 +17,8 @@ To write character data into a file using the FileWriter class in Java.
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Aadithya R
-RegisterNumber: 212223240001
+Developed by: SUDARSAN.A
+RegisterNumber: 212224220111
 */
 ```
 
